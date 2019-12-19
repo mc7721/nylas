@@ -1,0 +1,73 @@
+{
+    "name": "Nylas",
+    "description": "<p>Nylas makes it incredibly easy to interface with email, scheduling, and contacts. It&rsquo;s the modern email messaging platform for enterprise apps.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Screen Shot 2017-05-08 at 1.45.11 PM.png",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "calendaring",
+        "contacts",
+        "emails",
+        "have api",
+        "webhook implementations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/nylas\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Nylas",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Screen Shot 2017-05-08 at 1.45.11 PM.png",
+            "humanURL": "https:\/\/nylas.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/nylas-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/nylas-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Change Logs",
+            "url": "https:\/\/nylas.com\/cloud\/docs#api_changelog"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/nylas.com\/cloud\/docs"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/nylas"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/nylas.com\/pricing\/"
+        },
+        {
+            "type": "Rate Limiting",
+            "url": "https:\/\/nylas.com\/cloud\/docs#rate_limiting"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/nylas"
+        },
+        {
+            "type": "Webhooks",
+            "url": "https:\/\/nylas.com\/cloud\/docs#webhooks"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/nylas.com\/"
+        }
+    ]
+}
